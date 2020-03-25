@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PracticaStringsXMLv2</string>
+    <string name="OPC1">Opcion 1</string>
+    <string name="OPC2">Opcion 2</string>
+    <string name="OPC3">Opcion 3</string>
+    <string name="mensaje_1">Se seleccionó el primer opción</string>
+    <string name="mensaje_2">Se seleccionó la segunda opción</string>
+    <string name="mensaje_3">Se seleccionó la tercera opción</string>
+</resources>
